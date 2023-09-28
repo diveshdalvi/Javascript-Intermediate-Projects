@@ -1,2 +1,2 @@
 # Javascript Intermediate Projects
- Javascript Learning Projects 
+ Javascript Intermediate Projects
