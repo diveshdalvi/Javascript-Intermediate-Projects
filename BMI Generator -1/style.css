@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+.heading{
+    display: inline-block;
+    background-color:honeydew;
+}
+#calculateBtn{
+    padding: 10px;
+    background-color: lightblue;
+    border: 1px solid black;
+    margin-top: 25px;
+}
+#calculateBtn:active{
+    background-color:aqua;
+}
